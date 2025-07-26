@@ -1,2 +1,2 @@
-# Training_Test_Software_ebac - 
+# Training_Test_Software_ebac 
 exercises - course test software
